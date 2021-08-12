@@ -181,8 +181,8 @@ Reach out to the maintainer at one of the following places:
 [contributors-url]: https://github.com/windsuzu/Best-README-Template/graphs/contributors
 [issues-shield]: https://img.shields.io/github/issues/windsuzu/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/windsuzu/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/windsuzu/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/windsuzu/Best-README-Template/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/windsuzu/Best-README-Template.svg?style=for-the-badge&label=license
+[license-url]: https://github.com/windsuzu/Best-README-Template/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/windsuzu
 [pr-welcome-shield]: https://shields.io/badge/PRs-Welcome-ff69b4?style=for-the-badge
