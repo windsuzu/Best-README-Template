@@ -5,7 +5,7 @@
 *** Thanks again! Now go create something AMAZING! :D
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username (that is "windsuzu" below), repo_name (that is "best-readme-template"), project_title, project_description
+*** github_username (that is "windsuzu"), repo_name (that is "Best-README-Template"), project_title, project_description
 -->
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -19,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/windsuzu/best-readme-template">
+  <a href="https://github.com/windsuzu/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -28,14 +28,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/windsuzu/best-readme-template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/windsuzu/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/windsuzu/best-readme-template">View Demo</a>
+    <a href="https://github.com/windsuzu/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/windsuzu/best-readme-template/issues">Report Bug</a>
+    <a href="https://github.com/windsuzu/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/windsuzu/best-readme-template/issues">Request Feature</a>
+    <a href="https://github.com/windsuzu/Best-README-Template/issues">Request Feature</a>
   </p>
 </p>
 
@@ -96,9 +96,9 @@ The key features of **Best README Template**:
 <summary>Built With</summary>
 <br>
 
-* [いち]()
-* [に]()
-* [さん]()
+* [いち](https://github.com/windsuzu/Best-README-Template)
+* [に](https://github.com/windsuzu/Best-README-Template)
+* [さん](https://github.com/windsuzu/Best-README-Template)
 
 </details>
 
@@ -127,7 +127,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/windsuzu/best-readme-template.git
+   git clone https://github.com/windsuzu/Best-README-Template.git
    ```
 2. Install NPM packages
    ```sh
@@ -144,7 +144,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/windsuzu/best-readme-template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/windsuzu/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 ---
 
@@ -160,29 +160,29 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/windsuzu/best-readme-template/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/windsuzu/Best-README-Template/blob/main/LICENSE) for more information.
 
 ## Contact
 
 Reach out to the maintainer at one of the following places:
 
-* [GitHub discussions](https://github.com/windsuzu/best-readme-template/discussions)
+* [GitHub discussions](https://github.com/windsuzu/Best-README-Template/discussions)
 * The email which is located [in GitHub profile](https://github.com/windsuzu)
 
 
 ## Acknowledgements
 
-* [壹]()
-* [貳]()
-* [參]()
+* [壹](https://github.com/windsuzu/Best-README-Template)
+* [貳](https://github.com/windsuzu/Best-README-Template)
+* [參](https://github.com/windsuzu/Best-README-Template)
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/windsuzu/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/windsuzu/best-readme-template/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/windsuzu/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/windsuzu/best-readme-template/issues
-[license-shield]: https://img.shields.io/github/license/windsuzu/repo.svg?style=for-the-badge
-[license-url]: https://github.com/windsuzu/best-readme-template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/windsuzu/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/windsuzu/Best-README-Template/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/windsuzu/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/windsuzu/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/windsuzu/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/windsuzu/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/windsuzu
 [pr-welcome-shield]: https://shields.io/badge/PRs-Welcome-ff69b4?style=for-the-badge
