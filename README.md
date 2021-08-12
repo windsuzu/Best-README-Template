@@ -1,6 +1,3 @@
-[github_username]: windsuzu
-[repo_name]: best-readme-template
-
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -8,16 +5,7 @@
 *** Thanks again! Now go create something AMAZING! :D
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+*** github_username (that is "windsuzu" below), repo_name (that is "best-readme-template"), project_title, project_description
 -->
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -31,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/[github_username]/[repo_name]">
+  <a href="https://github.com/windsuzu/best-readme-template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -40,14 +28,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/[github_username]/[repo_name]"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/windsuzu/best-readme-template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/[github_username]/[repo_name]">View Demo</a>
+    <a href="https://github.com/windsuzu/best-readme-template">View Demo</a>
     ·
-    <a href="https://github.com/[github_username]/[repo_name]/issues">Report Bug</a>
+    <a href="https://github.com/windsuzu/best-readme-template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/[github_username]/[repo_name]/issues">Request Feature</a>
+    <a href="https://github.com/windsuzu/best-readme-template/issues">Request Feature</a>
   </p>
 </p>
 
@@ -98,19 +86,19 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-The key features of **repo_name**:
+The key features of **Best README Template**:
 
--
--
--
+- 一
+- 二
+- 三
 
 <details close>
 <summary>Built With</summary>
 <br>
 
-* []()
-* []()
-* []()
+* [いち]()
+* [に]()
+* [さん]()
 
 </details>
 
@@ -128,16 +116,18 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+
+* pip
   ```sh
-  npm install npm@latest -g
+  pip install --upgrade pip
+  pip install -r requirements.txt
   ```
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/[github_username]/[repo_name].git
+   git clone https://github.com/windsuzu/best-readme-template.git
    ```
 2. Install NPM packages
    ```sh
@@ -154,7 +144,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/[github_username]/[repo_name]/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/windsuzu/best-readme-template/issues) for a list of proposed features (and known issues).
 
 ---
 
@@ -170,32 +160,31 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/[github_username]/[repo_name]/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/windsuzu/best-readme-template/blob/main/LICENSE) for more information.
 
 ## Contact
 
 Reach out to the maintainer at one of the following places:
 
-* [GitHub discussions](https://github.com/[github_username]/[repo_name]/discussions)
-* The email which is located [in GitHub profile](https://github.com/[github_username])
+* [GitHub discussions](https://github.com/windsuzu/best-readme-template/discussions)
+* The email which is located [in GitHub profile](https://github.com/windsuzu)
 
 
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [壹]()
+* [貳]()
+* [參]()
 
 
-
-[contributors-shield]: https://img.shields.io/github/contributors/[github_username]/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/[github_username]/[repo_name]/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/[github_username]/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/[github_username]/[repo_name]/issues
-[license-shield]: https://img.shields.io/github/license/[github_username]/repo.svg?style=for-the-badge
-[license-url]: https://github.com/[github_username]/[repo_name]/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/windsuzu/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/windsuzu/best-readme-template/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/windsuzu/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/windsuzu/best-readme-template/issues
+[license-shield]: https://img.shields.io/github/license/windsuzu/repo.svg?style=for-the-badge
+[license-url]: https://github.com/windsuzu/best-readme-template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/[github_username]
+[linkedin-url]: https://linkedin.com/in/windsuzu
 [pr-welcome-shield]: https://shields.io/badge/PRs-Welcome-ff69b4?style=for-the-badge
-[author-shield]: https://shields.io/badge/Made_with_%E2%9D%A4_by-[github_username]-F4A92F?style=for-the-badge
-[author-url]: https://github.com/[github_username]
+[author-shield]: https://shields.io/badge/Made_with_%E2%9D%A4_by-windsuzu-F4A92F?style=for-the-badge
+[author-url]: https://github.com/windsuzu
