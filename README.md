@@ -8,8 +8,8 @@
 *** github_username (that is "windsuzu"), repo_name (that is "Best-README-Template"), project_title, project_description
 -->
 
+<!-- [![Issues][issues-shield]][issues-url] -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![PR Welcome][pr-welcome-shield]](#contributing)
 [![Author][author-shield]][author-url]
@@ -40,30 +40,19 @@
 </p>
 
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
+<details>
+<summary>Table of Contents</summary>
+
+* [About](#about)
+* [Getting Started](#getting-started)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+
 </details>
 
 ---
@@ -96,9 +85,9 @@ The key features of **Best README Template**:
 <summary>Built With</summary>
 <br>
 
-* [いち](https://github.com/windsuzu/Best-README-Template)
-* [に](https://github.com/windsuzu/Best-README-Template)
-* [さん](https://github.com/windsuzu/Best-README-Template)
+* [壹](https://github.com/windsuzu/Best-README-Template)
+* [貳](https://github.com/windsuzu/Best-README-Template)
+* [參](https://github.com/windsuzu/Best-README-Template)
 
 </details>
 
@@ -113,25 +102,25 @@ The key features of **Best README Template**:
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+### Installation
 
 This is an example of how to list things you need to use the software and how to install them.
-
-* pip
-  ```sh
-  pip install --upgrade pip
-  pip install -r requirements.txt
-  ```
-
-### Installation
 
 1. Clone the repo
    ```sh
    git clone https://github.com/windsuzu/Best-README-Template.git
    ```
-2. Install NPM packages
+
+2. Install the dependencies
    ```sh
-   npm install
+   python -m pip install --upgrade pip
+
+   # create a virtual environment
+   python venv my-venv
+   source my-venv/bin/activate   # my-venv\Scripts\activate.bat (in Windows)
+
+   # install required modules
+   python -m pip install -r requirements.txt
    ```
 
 ---
@@ -172,9 +161,9 @@ Reach out to the maintainer at one of the following places:
 
 ## Acknowledgements
 
-* [壹](https://github.com/windsuzu/Best-README-Template)
-* [貳](https://github.com/windsuzu/Best-README-Template)
-* [參](https://github.com/windsuzu/Best-README-Template)
+* [いち](https://github.com/windsuzu/Best-README-Template)
+* [に](https://github.com/windsuzu/Best-README-Template)
+* [さん](https://github.com/windsuzu/Best-README-Template)
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/windsuzu/Best-README-Template.svg?style=for-the-badge
